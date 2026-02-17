@@ -78,10 +78,8 @@ I'm **Vimansa Siyasingha**, a passionate **Software Engineering undergraduate** 
 
 ### 🎨 Frontend Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### 🚀 Backend & Runtime
 
@@ -92,8 +90,6 @@ I'm **Vimansa Siyasingha**, a passionate **Software Engineering undergraduate** 
 ### 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
@@ -104,14 +100,6 @@ I'm **Vimansa Siyasingha**, a passionate **Software Engineering undergraduate** 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🧪 Testing & QA
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A318?style=for-the-badge&logo=junit5&logoColor=white)
-
-</div>
 
 ---
 
@@ -132,18 +120,6 @@ I'm **Vimansa Siyasingha**, a passionate **Software Engineering undergraduate** 
   </tr>
 </table>
 
-### 💻 Language Distribution
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimansa-Siyasing&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages Compact"/>
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimansa-Siyasing&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages Distribution"/>
-    </td>
-  </tr>
-</table>
 
 ### 🎯 Contribution Activity
 
