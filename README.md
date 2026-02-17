@@ -18,6 +18,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Quality+Software+Solutions;Creating+User-Friendly+Experiences;Learning+and+Growing+Every+Day;Let's+Build+Something+Amazing+Together!" alt="Typing Animation"/>
 </p>
 
+<!-- PROFILE BADGES & STATS -->
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Vimansa-Siyasing&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Vimansa-Siyasing)
+[![GitHub Followers](https://img.shields.io/github/followers/Vimansa-Siyasing?label=👥%20Followers&style=for-the-badge&color=blue)](https://github.com/Vimansa-Siyasing?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Vimansa-Siyasing?label=⭐%20Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/Vimansa-Siyasing?tab=stars)
+
+<br><br>
 
 </div>
 
@@ -39,6 +47,16 @@ I'm **Vimansa Siyasingha**, a passionate **Software Engineering undergraduate** 
 - 🚀 **Innovation** - Exploring new technologies and methodologies
 - 🤝 **Collaboration** - Building great teams and sharing knowledge
 - 📚 **Continuous Learning** - Always updating my skills and knowledge
+
+### ✨ My Philosophy
+> *"Code is poetry. Quality software is a beautiful composition of logic and creativity."*
+
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
